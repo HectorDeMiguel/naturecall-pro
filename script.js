@@ -8,7 +8,7 @@ window.addEventListener("DOMContentLoaded", () => {
     mainContent.style.paddingTop = navHeight + "px";
   }
 
-  // Mobile Menu Toggle
+  // Cambio de menú entre escritorio y móvil
   const navButtons = document.querySelectorAll('#navIcons button');
   if (navButtons.length > 1) {
     const menuButton = navButtons[1]; // Segundo botón (BURGERMENU)
