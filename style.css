@@ -851,7 +851,7 @@ nav .navListMobile li a { /* Enlaces de la lista móvil */
         color: var(--primary-color);
         max-width: 450px;
         margin-right: 5%;
-        gap:40px; /* TU MODIFICACIÓN */
+        gap:40px;
     }
     .hero-image-mobile {
         background-image: none;
